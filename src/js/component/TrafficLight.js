@@ -5,7 +5,7 @@ export class TrafficLight extends React.Component {
 	constructor() {
 		super();
 		this.state = {
-			clickedLight: null
+			marketLight: null
 		};
 	}
 
